@@ -2,7 +2,7 @@ package tsd;
 
 import java.util.function.Predicate;
 
-public class Test4_23_2 {
+public class LambdaSiki_TokumeiClass {
 
 	public static void main(String[] args) {
 
